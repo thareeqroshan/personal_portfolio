@@ -2,15 +2,13 @@
 ## CHANGE THESE
 ############################
 
-baseURL: 'https://thareeqroshan.github.io/personal_portfolio'
-title: personal_portfolio
+baseURL: "https://thareeqroshan.github.io/"
+title: "Thareeq Roshan - Sound Designer"
 
 ############################
 ## MISC
 ############################
 
 enableEmoji: true
-disableKinds: ['taxonomy', 'term']
-languageCode: 'en-us'
-
-
+disableKinds: ["taxonomy", "term"]
+languageCode: "en-us"
